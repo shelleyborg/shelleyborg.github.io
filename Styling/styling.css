@@ -78,6 +78,13 @@
     margin-right: 60px;
   }
 
+  /*Videos CSS*/
+  h3{
+    text-align: center;
+    margin-top: 20px;
+    color: #5064DE;
+  }
+
 
   /*Contact us Form CSS */
   .contact-form{
