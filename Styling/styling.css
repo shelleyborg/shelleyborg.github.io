@@ -7,7 +7,7 @@
     display: flex;
     align-items: flex-start; 
     padding-left: 35%;
-    background-image: linear-gradient(to right, #DD41A7 , #8FA2E3);
+    background-image: linear-gradient(to right, #EF57BC , #8BA0F7);
 }
 
 .navbar ul{
@@ -41,7 +41,6 @@
 }
 
 
-
 .backButton{
   text-decoration: none; 
   padding: 5px 10px; 
@@ -51,11 +50,6 @@
   margin-left: -350px;
   margin-top: 10px;
 }
-
-
-
-
-
   /* Aside CSS */
   .video{
     width: 250px;
@@ -66,11 +60,26 @@
   }
 
   /*Footer CSS */
-  .SocialLinks{
-    width: 30px;
-    height: 30px;
-    margin-left: 25px;
-    padding-top: 550px;
+  footer{
+    padding: 20px;
+    text-align: left;
+    background-color: #DB66C9;
+    margin-top: 600px;
+  } 
+
+  .BottomLogo{
+    border-radius: 50%;
+    max-width: 100px;
+    margin-left: 50px;
+  }
+
+  footer .SocialLinks{
+    width: 50px;
+    height: 50px;
+    margin-left: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .AboutUs{

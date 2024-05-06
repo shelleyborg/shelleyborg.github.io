@@ -1,4 +1,4 @@
-var videos = ['Videos/LiveShow.mp4', 'Videos/videoplayback(6).mp4'];
+var videos = ['Styling/Videos/LiveShow.mp4', 'Styling/Videos/videoplayback(6).mp4'];
 var currentVideoIndex = 0;
 
 function videoslider(link) {
