@@ -9,13 +9,14 @@ body {
 .intro {
     display: flex;
     align-items: center;
+    background-color: #4d59af;
 }
 
 .intro .content {
     width: 1000px;
     height: 650px;
     margin-left: 10px;
-    background-color: #4D59AF;
+    background-color: #4d59af;
     color: white;
 }
 
@@ -54,3 +55,10 @@ footer .social-links img {
     width: 24px;
     height: auto;
 }
+
+footer{
+    padding: 20px;
+    text-align: left;
+    background-color: #DB66C9;
+    margin-top: 0px;
+  } 
