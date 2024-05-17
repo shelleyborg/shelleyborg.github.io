@@ -59,6 +59,28 @@ body{
 
 footer{
   width: 100%;
-  margin-top: 600px;
+  margin-top: 650px !important;
 }
+
+footer {
+  background-color: #DA66C9;
+  padding: 20px;
+  text-align: center;
+}
+
+footer .social-links a {
+  margin: 0 10px;
+}
+
+footer .social-links img {
+  width: 24px;
+  height: auto;
+}
+
+footer{
+  padding: 20px;
+  text-align: left;
+  background-color: #DB66C9;
+  /* margin-top: 0px; */
+} 
 

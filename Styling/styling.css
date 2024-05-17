@@ -79,9 +79,6 @@ body{
     width: 250px;
     height: 250px;
     display: block;
-    /* float: right; */
-    /* margin-right: 400px;
-    margin-top: -687px; */
   }
 
   footer {
@@ -252,8 +249,6 @@ body{
       position: absolute;
       top: 100%; left: 0; right: 0;
       background-color: #eee;
-      border-top: .1rem solid rgba(0.0.0..1);
-      clip-path: polygon(0 0. 100% 0, 100% 0, 0 0);
     }
 
     header #toggler:checked ~ .navbar{
